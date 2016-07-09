@@ -1,0 +1,112 @@
+body {
+    font-family: "HelveticaNeue-UltraLight", "Helvetica Neue UltraLight", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: #777;
+    font-weight: 300;
+    line-height: 1.7;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.4;
+    font-weight: 700;
+}
+
+header {
+    padding-bottom: 50px;
+}
+
+#flere-logo {
+    max-width: 150px;
+}
+
+#flere-text {
+    font-weight: 100;
+    letter-spacing: 8px;
+    font-size: 60px;
+    line-height: 1;
+}
+
+#flere-text span {
+    letter-spacing: 14px;
+}
+
+.about {
+    font-weight: 100;
+    font-size: 27px;
+    line-height: 1.4;
+    letter-spacing: 1px;
+}
+
+.jumbotron-fluid {
+    padding: 0;
+}
+
+#size-banner{
+    height: 580px;
+    padding-top: 170px;
+}
+
+.footer {
+    background: #0079d3;
+    margin-top: 120px;
+    position: relative;
+}
+
+.footer .container {
+    padding: 60px 0 20px;
+}
+
+.footer ul {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    text-align: center;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer ul li {
+    text-align: center;
+    display: inline-block;
+    background: rgba(0,0,0,0.2);
+    color: #fff;
+    line-height: 45px;
+    margin: 0 4px;
+    width: 45px !important;
+    height: 45px !important;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.footer ul li:hover {
+    background: #2a2a2a;
+}
+
+.footer ul li:hover a {
+    color: #fff;
+}
+
+.footer ul li a {
+    color: #fff;
+    width: 42px !important;
+    height: 42px !important;
+}
+
+.footer ul li a i {
+    line-height: 45px;
+    color: #fff;
+}
+
+.footer p {
+    color: #fff;
+    font-size: .9em;
+    line-height: 24px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.footer a,.footer a:hover {
+    color:#fff;
+}
